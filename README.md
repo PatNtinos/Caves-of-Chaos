@@ -16,12 +16,12 @@ At the final level, the Hero comes face to face with the Serpent of Chaos. Only 
 ### Dungeon Gameplay
 <p align="center">
 
-  <img src="Screenshots/Incinerating_enemies.png" width="500" />
+  <img src="Screenshots/Incinerating_enemies.png" width="1500" />
 
 </p>
 <p align="center">
   
-  <img src="Screenshots/Slain_by_horde_of_enemies.png" width="500" />
+  <img src="Screenshots/Slain_by_horde_of_enemies.png" width="1500" />
   
 </p>
 
