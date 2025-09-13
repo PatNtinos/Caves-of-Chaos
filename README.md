@@ -43,7 +43,7 @@ At the final level, the Hero comes face to face with the Serpent of Chaos. Only 
 ## Installation
 
 Grab the EXE and enjoy the adventure, just don’t get too carried away!😉
-
+Tip: Don't forget to have Java installed!
 
 ## Credits
 A Big Thank You to the following sites and creators for generously sharing their work, I could never hope to match their skill and artistry!
