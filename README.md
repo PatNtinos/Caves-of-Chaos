@@ -12,6 +12,13 @@ As the players slashes through the hordes while taking occasional naps to regain
 At the final level, the Hero comes face to face with the Serpent of Chaos. Only by slashing through this fearsome beast, he will claim the Legendary Diamond and hear  the trumpets of Victory.
 
 
+
+### Dungeon Gameplay
+![Gameplay](Screenshots/Incinerating_enemies.png)
+
+![Gameplay](Screenshots/Slain_by_horde_of_enemies.png)
+
+
 ## Features
 
 - **Built entirely in Java**.  
