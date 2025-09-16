@@ -24,6 +24,11 @@ At the final level, the Hero comes face to face with the Serpent of Chaos. Only 
   <img src="Screenshots/Slain_by_horde_of_enemies.png" width="1500" />
   
 </p>
+<p align="center">
+  
+  <img src="Screenshots/Final_Boss.png" width="1500" />
+  
+</p>
 
 
 ## Features
