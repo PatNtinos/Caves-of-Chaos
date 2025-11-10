@@ -63,6 +63,9 @@ At the final level, the Hero comes face to face with the Serpent of Chaos. Only 
 
 Grab the EXE and enjoy the adventure, just don’t get too carried away!😉
 Tip: Don't forget to have Java installed!
+Another Tip that emerged...: Apparently you can't just run it, because it is a jar file.
+Quick fixup: Make a shortcut to your Desktop and on the path add: java -jar "C:\Users\YOUR_USER_NAME\Downloads\Caves_of_Chaos.jar"
+Have Fun!!!
 
 ## Credits
 A Big Thank You to the following sites and creators for generously sharing their work, I could never hope to match their skill and artistry!
